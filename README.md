@@ -1,7 +1,7 @@
 # Beat Shift
 Game link : https://aayush21.itch.io/beat-shift
 
-A 2D Unity game featuring a unique music-driven gameplay mechanic with varying beat frequencies, challenging reflex-based levels, distinct rings with special abilities, dynamic obstacles, and strategic aids like trajectory and timers for high-score.
+A 2D Unity based browser game featuring a unique music-driven gameplay mechanic with varying beat frequencies, challenging reflex-based levels, distinct rings with special abilities, dynamic obstacles, and strategic aids like trajectory and timers for high-score.
 
 ###### Note 
 Developed with Unity 2020.3.24f1.
